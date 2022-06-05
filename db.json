@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API test",
+      "content": "Hello World"
+    },
+    {
+      "title": "Food",
+      "content": "Seasoning cube",
+      "id": 2
+    }
+  ]
+}
